@@ -1,0 +1,23 @@
+@relation playtennis
+@attribute sunny{yes,no}
+@attribiute overcast{yes,no}
+@attribute rain{yes,no}
+@attribute hot{yes,no}
+@attribute cool{yes,no}
+@attribute mild{yes,no}
+@attribute high{yes,no}
+@attribut normal{yes,no}
+@attribute weak{yes,no}
+@attribute strong{yes,no}
+@data
+no,yes,yes,no,yes,yes,no,yes,no,yes
+no,yes,yes,no,yes,yes,no,yes,yes,no
+no,yes,,no,yes,no,no,yes,no,yes,no
+no,no,yes,no,no,yes,yes,no,yes,no
+no,no,yes,no,yes,no,no,yes,yes,no
+yes,yes,no,yes,no,yes,yes,no,yes,no
+no,yes,no,no,yes,no,no,yes,no,yes
+no,yes,yes,yes,yes,no,no,yes,no,yes
+yes,no,no,no,yes,no,no,yes,yes,no
+no,no,yes,no,no,yes,no,yes,yes,no
+
